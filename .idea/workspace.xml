@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b5ab8ea1-23e0-48ba-81e3-5a9f7454624c" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/customer_classifier.ipynb" afterPath="$PROJECT_DIR$/customer_classifier.ipynb" />
-    </list>
+    <list default="true" id="b5ab8ea1-23e0-48ba-81e3-5a9f7454624c" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
